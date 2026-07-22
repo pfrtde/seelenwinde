@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+rm docs/*
+python3 main.py
+echo
+read -p "Browse immediately (y/N)? " choice
+if [ "$choice" == "y" ]; then chromium "file:///home/paddy/github/seelenwinde/docs/index.html";
+fi
+echo
