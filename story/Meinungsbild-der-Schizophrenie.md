@@ -7,4 +7,4 @@ Auf Nachfrage des Journalisten erläuterte Spitzer im übertragenen Sinne, wozu 
 In den folgenden 20-30 Jahren hat sich für uns Schizophrene einiges verbessert, obwohl das negative Meinungsbild zum Großteil noch besteht.
 Menschen mit LGBTQ-Thematik und funktionale Autisten werden in zunehmendem Maße geschätzt und besonders geschützt.
 Das ist an sich eine gute Sache.
-Doch müssten moderne ethische Werte nicht für uns alle gelten?</p>
+Doch müssten nicht wir alle von modernen ethischen Werten profitieren?</p>
